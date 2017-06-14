@@ -1,0 +1,417 @@
+{
+    "FS": {
+        "BUs": [
+            {
+                "BUName": "Insurance",
+                "PortFolios": [
+                    {
+                        "PortFolioName": "p&c",
+                        "Accounts": [
+                            {
+                                "AccountName": "HSBC",
+                                "Projects": [
+                                    {
+                                        "Name": "Project",
+                                        "Project_Head": "Parag Arjunwadkar",
+                                        "Current_Status": "Amber",
+                                        "Project_Description": "some descripton",
+                                        "Client_Escalations": [
+                                            {
+                                                "Desc": "Some Descripton"
+                                            }
+                                        ],
+                                        "M_Review": {
+                                            "RAG": "AMBER",
+                                            "Delivery_Status": "AMBER",
+                                            "Commercial_Status": "GREEN",
+                                            "PHI_Status": "AMBER",
+                                            "Summary": "Some Descripton",
+                                            "Risks": [
+                                                {
+                                                  "Risk1":"Some Descripton"
+                                                }
+                                            ],
+                                            "PHI_Summary": "Some Descripton"
+                                        },
+                                        "PHI": {
+                                            "Status": "AMBER",
+                                            "Score": "88",
+                                            "EWT_Client": "AMBER",
+                                            "EWT_Delivery": "AMBER",
+                                            "EWT_Finance": "GREEN",
+                                            "EWT_People": "GREEN",
+                                            "Risks": "Some Descripton"
+                                        },
+                                        "PDA": {
+                                            "Project": "Sample Project",
+                                            "MileStone": "MileStone 4",
+                                            "DeliveryDate": "30-May-2017",
+                                            "PDA_Status": "MileStone Deliver Required",
+                                            "Remarks": [
+                                              {
+                                                "Remarks1":"Some Descripton"
+                                              }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "Name": "Project-1",
+                                        "Project_Head": "Parag Arjunwadkar",
+                                        "Current_Status": "Amber",
+                                        "Project_Description": "some descripton",
+                                        "Client_Escalations": [
+                                            {
+                                                "Desc1": {},
+                                                "Desc2": {}
+                                            }
+                                        ],
+                                        "M_Review": {
+                                            "RAG": "",
+                                            "Delivery_Status": "",
+                                            "Commercial_Status": "",
+                                            "PHI_Status": "",
+                                            "Summary": [
+                                                {}
+                                            ],
+                                            "Risks": [
+                                                {}
+                                            ],
+                                            "PHI_Summary": ""
+                                        },
+                                        "PHI": {
+                                            "Status": "",
+                                            "Score": "",
+                                            "EWT_Client": "",
+                                            "EWT_Delivery": "",
+                                            "EWT_Finance": "",
+                                            "EWT_People": "",
+                                            "Risks": [
+                                                {}
+                                            ]
+                                        },
+                                        "PDA": {
+                                            "Project": "",
+                                            "MileStone": "",
+                                            "DeliveryDate": "",
+                                            "PDA_Status": "",
+                                            "Remarks": [
+                                                {}
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "AccountName": "Farmers",
+                                "Projects": [
+                                    {
+                                        "Name": "Project-1",
+                                        "Project_Head": "Parag Arjunwadkar",
+                                        "Current_Status": "Amber",
+                                        "Project_Description": "some descripton",
+                                        "Client_Escalations": [
+                                            {
+                                                "Desc1": {},
+                                                "Desc2": {}
+                                            }
+                                        ],
+                                        "M_Review": {
+                                            "RAG": "",
+                                            "Delivery_Status": "",
+                                            "Commercial_Status": "",
+                                            "PHI_Status": "",
+                                            "Summary": [
+                                                {}
+                                            ],
+                                            "Risks": [
+                                                {}
+                                            ],
+                                            "PHI_Summary": ""
+                                        },
+                                        "PHI": {
+                                            "Status": "",
+                                            "Score": "",
+                                            "EWT_Client": "",
+                                            "EWT_Delivery": "",
+                                            "EWT_Finance": "",
+                                            "EWT_People": "",
+                                            "Risks": [
+                                                {}
+                                            ]
+                                        },
+                                        "PDA": {
+                                            "Project": "",
+                                            "MileStone": "",
+                                            "DeliveryDate": "",
+                                            "PDA_Status": "",
+                                            "Remarks": [
+                                                {}
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "PortFolioName": "LI",
+                        "Accounts": [
+                            {
+                                "AccountName": "HSBC",
+                                "Projects": [
+                                    {
+                                        "Name": "Project-1",
+                                        "Project_Head": "Parag Arjunwadkar",
+                                        "Current_Status": "Amber",
+                                        "Project_Description": "some descripton",
+                                        "Client_Escalations": [
+                                            {
+                                                "Desc1": {},
+                                                "Desc2": {}
+                                            }
+                                        ],
+                                        "M_Review": {
+                                            "RAG": "",
+                                            "Delivery_Status": "",
+                                            "Commercial_Status": "",
+                                            "PHI_Status": "",
+                                            "Summary": [
+                                                {}
+                                            ],
+                                            "Risks": [
+                                                {}
+                                            ],
+                                            "PHI_Summary": ""
+                                        },
+                                        "PHI": {
+                                            "Status": "",
+                                            "Score": "",
+                                            "EWT_Client": "",
+                                            "EWT_Delivery": "",
+                                            "EWT_Finance": "",
+                                            "EWT_People": "",
+                                            "Risks": [
+                                                {}
+                                            ]
+                                        },
+                                        "PDA": {
+                                            "Project": "",
+                                            "MileStone": "",
+                                            "DeliveryDate": "",
+                                            "PDA_Status": "",
+                                            "Remarks": [
+                                                {}
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "AccountName": "Farmers",
+                                "Projects": [
+                                    {
+                                        "Name": "Project-1",
+                                        "Project_Head": "Parag Arjunwadkar",
+                                        "Current_Status": "Amber",
+                                        "Project_Description": "some descripton",
+                                        "Client_Escalations": [
+                                            {
+                                                "Desc1": {},
+                                                "Desc2": {}
+                                            }
+                                        ],
+                                        "M_Review": {
+                                            "RAG": "",
+                                            "Delivery_Status": "",
+                                            "Commercial_Status": "",
+                                            "PHI_Status": "",
+                                            "Summary": [
+                                                {}
+                                            ],
+                                            "Risks": [
+                                                {}
+                                            ],
+                                            "PHI_Summary": ""
+                                        },
+                                        "PHI": {
+                                            "Status": "",
+                                            "Score": "",
+                                            "EWT_Client": "",
+                                            "EWT_Delivery": "",
+                                            "EWT_Finance": "",
+                                            "EWT_People": "",
+                                            "Risks": [
+                                                {}
+                                            ]
+                                        },
+                                        "PDA": {
+                                            "Project": "",
+                                            "MileStone": "",
+                                            "DeliveryDate": "",
+                                            "PDA_Status": "",
+                                            "Remarks": [
+                                                {}
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "BUName": "BCM",
+                "PortFolios": [
+                    {
+                        "PortFolioName": "PortFolio-1",
+                        "Accounts": [
+                            {
+                                "AccountName": "HSBC",
+                                "Projects": [
+                                    {
+                                        "Name": "Project-1",
+                                        "Project_Head": "Parag Arjunwadkar",
+                                        "Current_Status": "Amber",
+                                        "Project_Description": "some descripton",
+                                        "Client_Escalations": [
+                                            {
+                                                "Desc1": {},
+                                                "Desc2": {}
+                                            }
+                                        ],
+                                        "M_Review": {
+                                            "RAG": "",
+                                            "Delivery_Status": "",
+                                            "Commercial_Status": "",
+                                            "PHI_Status": "",
+                                            "Summary": [
+                                                {}
+                                            ],
+                                            "Risks": [
+                                                {}
+                                            ],
+                                            "PHI_Summary": ""
+                                        },
+                                        "PHI": {
+                                            "Status": "",
+                                            "Score": "",
+                                            "EWT_Client": "",
+                                            "EWT_Delivery": "",
+                                            "EWT_Finance": "",
+                                            "EWT_People": "",
+                                            "Risks": [
+                                                {}
+                                            ]
+                                        },
+                                        "PDA": {
+                                            "Project": "",
+                                            "MileStone": "",
+                                            "DeliveryDate": "",
+                                            "PDA_Status": "",
+                                            "Remarks": [
+                                                {}
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "AccountName": "Farmers",
+                                "Projects": [
+                                    {
+                                        "Name": "Project-1",
+                                        "Project_Head": "Parag Arjunwadkar",
+                                        "Current_Status": "Amber",
+                                        "Project_Description": "some descripton",
+                                        "Client_Escalations": [
+                                            {
+                                                "Desc1": {},
+                                                "Desc2": {}
+                                            }
+                                        ],
+                                        "M_Review": {
+                                            "RAG": "",
+                                            "Delivery_Status": "",
+                                            "Commercial_Status": "",
+                                            "PHI_Status": "",
+                                            "Summary": [
+                                                {}
+                                            ],
+                                            "Risks": [
+                                                {}
+                                            ],
+                                            "PHI_Summary": ""
+                                        },
+                                        "PHI": {
+                                            "Status": "",
+                                            "Score": "",
+                                            "EWT_Client": "",
+                                            "EWT_Delivery": "",
+                                            "EWT_Finance": "",
+                                            "EWT_People": "",
+                                            "Risks": [
+                                                {}
+                                            ]
+                                        },
+                                        "PDA": {
+                                            "Project": "",
+                                            "MileStone": "",
+                                            "DeliveryDate": "",
+                                            "PDA_Status": "",
+                                            "Remarks": [
+                                                {}
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {}
+                ]
+            }
+        ],
+        "CustomerCollaboration": {
+            "QL_Assessment": "",
+            "Accolades": [
+                {}
+            ],
+            "Life_Cycle": [
+                {
+                    "Agile": [
+                        {}
+                    ],
+                    "SDLC": [
+                        {}
+                    ]
+                }
+            ],
+            "Project_Initiation": [
+                {}
+            ],
+            "RAG": ""
+        },
+        "AssetLibrary": {
+            "M-Reviews": {
+                "Objectives": "Some_Desc",
+                "Eligibility_Criteria": ""
+            },
+            "PHI": {
+                "Desc": "",
+                "Weekly_PHI_Reports": "",
+                "PHI_RAG_Criteria": ""
+            },
+            "PDA": "",
+            "Delivery_Excellence_Dashboard": "Image_PIC_LOC",
+            "UPM_Dashboard": {
+                "Graph_Loc": "Image_LOC_PIC",
+                "Desc": ""
+            },
+            "CMMI_Dashboard": {
+                "Image1": "Image_LOC",
+                "Image2": "Image_LOC2"
+            }
+        }
+    }
+}
